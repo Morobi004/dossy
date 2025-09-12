@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Coffee",
+      "description": "Hot brewed coffee",
+      "category": "Drinks",
+      "price": 20,
+      "quantity": 50
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "description": "Beef burger with cheese",
+      "category": "Food",
+      "price": 60,
+      "quantity": 25
+    },
+    {
+      "name": "Chicken Wings",
+      "description": "Fresh bone-in wings for all flavor varieties",
+      "category": "Food",
+      "price": 70,
+      "quantity": 40,
+      "id": 3
+    },
+    {
+      "name": "pizza",
+      "description": "delicious",
+      "category": "snack",
+      "price": 16,
+      "quantity": 4,
+      "id": 4
+    }
+  ],
+  "transactions": []
+}

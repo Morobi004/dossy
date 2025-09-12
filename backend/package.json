@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Wings Café backend server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Lethusang J Morobi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Morobi004/WINGS-CAFE.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Morobi004/WINGS-CAFE/issues"
+  },
+  "homepage": "https://github.com/Morobi004/WINGS-CAFE#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+     "express": "^5.1.0"
+  }
+}
+
+
