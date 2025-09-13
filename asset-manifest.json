@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dossy/static/css/main.47190fe0.css",
-    "main.js": "/dossy/static/js/main.25bf1c80.js",
+    "main.js": "/dossy/static/js/main.f49941f7.js",
     "static/js/453.09708dcd.chunk.js": "/dossy/static/js/453.09708dcd.chunk.js",
     "index.html": "/dossy/index.html",
     "main.47190fe0.css.map": "/dossy/static/css/main.47190fe0.css.map",
-    "main.25bf1c80.js.map": "/dossy/static/js/main.25bf1c80.js.map",
+    "main.f49941f7.js.map": "/dossy/static/js/main.f49941f7.js.map",
     "453.09708dcd.chunk.js.map": "/dossy/static/js/453.09708dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47190fe0.css",
-    "static/js/main.25bf1c80.js"
+    "static/js/main.f49941f7.js"
   ]
 }
